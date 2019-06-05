@@ -3709,19 +3709,6 @@ body {
 .cid-rswR9bPHtJ .media-container-row .row-copirayt p {
   width: 100%;
 }
-
-@media (min-width:641px) {
-    .btn_ a {
-        word-break: break-word;
-        white-space: normal !important;
-        width: 210px;
-        height: 210px;
-        padding: 0rem 0rem !important;
-        line-height: 14px;
-        border-radius: 80%;
-    }
-}
-
 @media (min-width:961px) {
 
     .btn_ a{
